@@ -38,7 +38,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: https://github.com/Pparg/testimonial-grid-section
-- Live Site URL: 
+- Live Site URL: https://Pparg.github.io/testimonial-grid-section
 
 ## My process
 
